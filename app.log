@@ -1,0 +1,352 @@
+2025-02-24 11:11:42,438 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 11:11:42,443 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 11:11:42,456 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 11:11:42,461 INFO: [33mPress CTRL+C to quit[0m
+2025-02-24 11:11:42,461 INFO:  * Restarting with stat
+2025-02-24 11:11:49,027 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 11:11:49,027 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 11:11:49,037 WARNING:  * Debugger is active!
+2025-02-24 11:11:49,042 INFO:  * Debugger PIN: 305-134-860
+2025-02-24 11:17:11,015 INFO: package: mysql.connector.plugins
+2025-02-24 11:17:11,032 INFO: plugin_name: mysql_native_password
+2025-02-24 11:17:11,089 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-02-24 11:17:11,186 INFO: 127.0.0.1 - - [24/Feb/2025 11:17:11] "GET / HTTP/1.1" 200 -
+2025-02-24 11:17:11,716 INFO: 127.0.0.1 - - [24/Feb/2025 11:17:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 11:17:21,456 INFO: 127.0.0.1 - - [24/Feb/2025 11:17:21] "GET /home HTTP/1.1" 200 -
+2025-02-24 11:17:21,487 INFO: 127.0.0.1 - - [24/Feb/2025 11:17:21] "GET /home HTTP/1.1" 200 -
+2025-02-24 11:21:16,553 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:16] "GET /home HTTP/1.1" 200 -
+2025-02-24 11:21:17,804 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:17] "GET /home HTTP/1.1" 200 -
+2025-02-24 11:21:19,737 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:19] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:21,358 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:21] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:21,998 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:21] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:22,207 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:22] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:22,412 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:22] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:27,898 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:27] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:28,613 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:28] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:28,805 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:28] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:28,981 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:28] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:29,165 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:29] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:42,985 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:42] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:43,920 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:43] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:44,132 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:44] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:44,324 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:44] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:44,508 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:44] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:44,705 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:44] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:44,902 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:44] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:45,098 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:45] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:45,296 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:45] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:45,470 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:45] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:45,645 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:45] "GET / HTTP/1.1" 200 -
+2025-02-24 11:21:45,885 INFO: 127.0.0.1 - - [24/Feb/2025 11:21:45] "GET / HTTP/1.1" 200 -
+2025-02-24 11:22:09,028 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-02-24 11:22:09,855 INFO:  * Restarting with stat
+2025-02-24 11:25:01,123 INFO:  * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 305-134-860
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 11:25:11] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 11:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 11:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 11:26:21] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:16:00] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:16:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:16:05] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:16:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:41] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:46] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:46] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:58] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:26:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:36:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:36:34] "[32mPOST /clear HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:36:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:36:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:41:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:57:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:57:27] "[32mPOST /clear HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:57:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 12:57:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 13:16:33] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 13:16:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 15:16:14] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 15:16:14] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-02-24 15:39:39,859 INFO:  * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+WARNING:huggingface_hub.file_download:Error while downloading from https://cas-bridge.xethub.hf.co/xet-bridge-us/621ffdc036468d709f174358/5b8bfc2f6adc7a5f097f02d2f09acc4572525485014bdf8f475fe1154bf7e838?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250224T131030Z&X-Amz-Expires=900&X-Amz-Signature=0263ea4a54c500d32a3fd17b5a072326e03393c77ce8bf183ef5bd12b68048a7&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&x-id=GetObject&Expires=1740406230&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDQwNjIzMH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82MjFmZmRjMDM2NDY4ZDcwOWYxNzQzNTgvNWI4YmZjMmY2YWRjN2E1ZjA5N2YwMmQyZjA5YWNjNDU3MjUyNTQ4NTAxNGJkZjhmNDc1ZmUxMTU0YmY3ZTgzOCoifV19&Signature=Ce%7EEtiIutl%7E1wTJ1flPaVUDy5HGlpSEdTvjqNYA4YrlL6sW4bugZcPhuhGLuEBgrxMh2kcJWjeSnSSnMPrGYE2nDLAxlKKHhtpxqv2-jctH8Ltw0BYYf1MPjs-0MRrWU1LzSlqfPczTgiwB7INVDJKrfGP4U1HtYN94-dKQlDAQm5C2-ZX3PIbJuZexsH4vSKjSPK0EO-Eil%7E0c-o0i-tLilOOvtKRCqJrv0OZD3JCOr7h3m4FMN5MSGZ-Y%7EcEWQMSg5IKI6zBCJyG3VxWB2YmcAW3M6Ch3jDjCYOcyhgGpKrKYyLCJw79V22u3oau1ydmL9Wvt8Iq1wepzErpELQQ__&Key-Pair-Id=K2L8F4GPSG1IFC: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+WARNING:huggingface_hub.file_download:Error while downloading from https://cas-bridge.xethub.hf.co/xet-bridge-us/621ffdc036468d709f174358/5b8bfc2f6adc7a5f097f02d2f09acc4572525485014bdf8f475fe1154bf7e838?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250224T131030Z&X-Amz-Expires=900&X-Amz-Signature=0263ea4a54c500d32a3fd17b5a072326e03393c77ce8bf183ef5bd12b68048a7&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&x-id=GetObject&Expires=1740406230&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDQwNjIzMH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82MjFmZmRjMDM2NDY4ZDcwOWYxNzQzNTgvNWI4YmZjMmY2YWRjN2E1ZjA5N2YwMmQyZjA5YWNjNDU3MjUyNTQ4NTAxNGJkZjhmNDc1ZmUxMTU0YmY3ZTgzOCoifV19&Signature=Ce%7EEtiIutl%7E1wTJ1flPaVUDy5HGlpSEdTvjqNYA4YrlL6sW4bugZcPhuhGLuEBgrxMh2kcJWjeSnSSnMPrGYE2nDLAxlKKHhtpxqv2-jctH8Ltw0BYYf1MPjs-0MRrWU1LzSlqfPczTgiwB7INVDJKrfGP4U1HtYN94-dKQlDAQm5C2-ZX3PIbJuZexsH4vSKjSPK0EO-Eil%7E0c-o0i-tLilOOvtKRCqJrv0OZD3JCOr7h3m4FMN5MSGZ-Y%7EcEWQMSg5IKI6zBCJyG3VxWB2YmcAW3M6Ch3jDjCYOcyhgGpKrKYyLCJw79V22u3oau1ydmL9Wvt8Iq1wepzErpELQQ__&Key-Pair-Id=K2L8F4GPSG1IFC: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+WARNING:huggingface_hub.file_download:Error while downloading from https://cas-bridge.xethub.hf.co/xet-bridge-us/621ffdc036468d709f174358/5b8bfc2f6adc7a5f097f02d2f09acc4572525485014bdf8f475fe1154bf7e838?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250224T131030Z&X-Amz-Expires=900&X-Amz-Signature=0263ea4a54c500d32a3fd17b5a072326e03393c77ce8bf183ef5bd12b68048a7&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&x-id=GetObject&Expires=1740406230&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDQwNjIzMH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82MjFmZmRjMDM2NDY4ZDcwOWYxNzQzNTgvNWI4YmZjMmY2YWRjN2E1ZjA5N2YwMmQyZjA5YWNjNDU3MjUyNTQ4NTAxNGJkZjhmNDc1ZmUxMTU0YmY3ZTgzOCoifV19&Signature=Ce%7EEtiIutl%7E1wTJ1flPaVUDy5HGlpSEdTvjqNYA4YrlL6sW4bugZcPhuhGLuEBgrxMh2kcJWjeSnSSnMPrGYE2nDLAxlKKHhtpxqv2-jctH8Ltw0BYYf1MPjs-0MRrWU1LzSlqfPczTgiwB7INVDJKrfGP4U1HtYN94-dKQlDAQm5C2-ZX3PIbJuZexsH4vSKjSPK0EO-Eil%7E0c-o0i-tLilOOvtKRCqJrv0OZD3JCOr7h3m4FMN5MSGZ-Y%7EcEWQMSg5IKI6zBCJyG3VxWB2YmcAW3M6Ch3jDjCYOcyhgGpKrKYyLCJw79V22u3oau1ydmL9Wvt8Iq1wepzErpELQQ__&Key-Pair-Id=K2L8F4GPSG1IFC: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 305-134-860
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:11:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:11:08] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:11:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:11:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:11:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:12:01] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:12:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:12:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:12:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Kimraro\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\transformers\\agents\\search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 305-134-860
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:45:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:45:19] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:45:43] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:45:43] "GET / HTTP/1.1" 200 -
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:NLTK resource 'punkt' already downloaded.
+INFO:__main__:NLTK resource 'punkt_tab' already downloaded.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 305-134-860
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:49:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:49:58] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:50:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:50:18] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:50:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:51:24] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:51:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:52:19] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:52:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:54:07] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:54:27] "[32mPOST /home HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:54:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:55:40] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:55:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2025 17:55:40] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-02-24 18:04:53,055 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:04:53,056 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:04:55,173 WARNING:  * Debugger is active!
+2025-02-24 18:04:55,177 INFO:  * Debugger PIN: 305-134-860
+2025-02-24 18:05:01,218 INFO: package: mysql.connector.plugins
+2025-02-24 18:05:01,218 INFO: plugin_name: mysql_native_password
+2025-02-24 18:05:01,220 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-02-24 18:05:01,405 INFO: 127.0.0.1 - - [24/Feb/2025 18:05:01] "GET / HTTP/1.1" 200 -
+2025-02-24 18:05:17,383 INFO: Generating code for: hello world in html
+2025-02-24 18:05:23,211 INFO: Generated code: : hello world in html Code: I generated this HTML for you: html!DOCTYPE html> html lang="en"> head> meta charset="UTF-8"> head>My Page/title> /head> body> h1>Hello World/h1> /body> /html>
+2025-02-24 18:05:23,248 INFO: Learned from chat: Learned from user message: hello world in html
+2025-02-24 18:05:23,248 INFO: Processed message: hello world in html
+2025-02-24 18:05:23,252 INFO: 127.0.0.1 - - [24/Feb/2025 18:05:23] "POST / HTTP/1.1" 200 -
+2025-02-24 18:05:43,005 INFO: Rated message 21: 5
+2025-02-24 18:05:43,008 INFO: 127.0.0.1 - - [24/Feb/2025 18:05:43] "POST / HTTP/1.1" 200 -
+2025-02-24 18:17:29,232 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-02-24 18:18:04,008 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:18:04,010 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:22:19,071 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:22:19,072 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:22:19,619 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 18:22:19,619 INFO: [33mPress CTRL+C to quit[0m
+2025-02-24 18:22:19,621 INFO:  * Restarting with stat
+2025-02-24 18:22:33,247 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:22:33,248 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:22:33,701 WARNING:  * Debugger is active!
+2025-02-24 18:22:33,705 INFO:  * Debugger PIN: 305-134-860
+2025-02-24 18:22:44,999 INFO: package: mysql.connector.plugins
+2025-02-24 18:22:44,999 INFO: plugin_name: mysql_native_password
+2025-02-24 18:22:45,000 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-02-24 18:22:45,020 INFO: 127.0.0.1 - - [24/Feb/2025 18:22:45] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:22:47,238 INFO: 127.0.0.1 - - [24/Feb/2025 18:22:47] "GET / HTTP/1.1" 200 -
+2025-02-24 18:22:47,240 INFO: 127.0.0.1 - - [24/Feb/2025 18:22:47] "GET / HTTP/1.1" 200 -
+2025-02-24 18:22:55,608 INFO: Generating code for: hello worl
+
+2025-02-24 18:23:01,308 INFO: Generated code: : hello worl Code: Hello worl Code: I generated this HTML for you: html!DOCTYPE html> html lang="en"> head> meta charset="UTF-8"> title>My Page/title> /head> body> h1>Hello World/h1> /body> /html>
+2025-02-24 18:23:01,363 INFO: Learned from chat: Learned from user message: hello worl
+
+2025-02-24 18:23:01,364 INFO: Processed message: hello worl
+
+2025-02-24 18:23:01,368 INFO: 127.0.0.1 - - [24/Feb/2025 18:23:01] "POST / HTTP/1.1" 200 -
+2025-02-24 18:23:08,085 INFO: Rated message 22: 5
+2025-02-24 18:23:08,089 INFO: 127.0.0.1 - - [24/Feb/2025 18:23:08] "POST / HTTP/1.1" 200 -
+2025-02-24 18:24:06,474 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:24:06,475 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:24:07,001 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 18:24:07,001 INFO: [33mPress CTRL+C to quit[0m
+2025-02-24 18:24:07,003 INFO:  * Restarting with stat
+2025-02-24 18:24:22,065 INFO: NLTK resource 'punkt' already downloaded.
+2025-02-24 18:24:22,066 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-02-24 18:24:22,522 WARNING:  * Debugger is active!
+2025-02-24 18:24:22,526 INFO:  * Debugger PIN: 305-134-860
+2025-02-24 18:25:09,555 INFO: 127.0.0.1 - - [24/Feb/2025 18:25:09] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:25:11,564 INFO: 127.0.0.1 - - [24/Feb/2025 18:25:11] "GET / HTTP/1.1" 200 -
+2025-02-24 18:25:15,341 INFO: Generating code for: hi
+2025-02-24 18:25:15,347 INFO: Generating code for: hi
+2025-02-24 18:25:25,588 INFO: Generated code: : hi Code: I generated this HTML for you: html!DOCTYPE html> html lang="en"> head> meta charset="UTF-8"> title>My Page/title> /head> body> h1>Hello World/h1> /body> /html>
+2025-02-24 18:25:25,619 INFO: Generated code: : hi Code: I generated this HTML for you: html!DOCTYPE html> html lang="en"> head> meta charset="UTF-8"> title>My Page/title> /head> body> h1>Hello World/h1> /body> /html>
+2025-02-24 18:25:25,659 INFO: Learned from chat: Learned from user message: hi
+2025-02-24 18:25:25,659 INFO: Processed message: hi
+2025-02-24 18:25:25,664 INFO: 127.0.0.1 - - [24/Feb/2025 18:25:25] "POST / HTTP/1.1" 200 -
+2025-02-24 18:25:25,756 INFO: Learned from chat: Learned from user message: hi
+2025-02-24 18:25:25,756 INFO: Processed message: hi
+2025-02-24 18:25:25,760 INFO: 127.0.0.1 - - [24/Feb/2025 18:25:25] "POST / HTTP/1.1" 200 -
+2025-02-24 18:26:28,185 INFO: 127.0.0.1 - - [24/Feb/2025 18:26:28] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:26:28,218 INFO: 127.0.0.1 - - [24/Feb/2025 18:26:28] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:26:52,838 INFO: User taught Python example
+2025-02-24 18:26:52,842 INFO: 127.0.0.1 - - [24/Feb/2025 18:26:52] "[32mPOST /home HTTP/1.1[0m" 302 -
+2025-02-24 18:26:52,874 INFO: 127.0.0.1 - - [24/Feb/2025 18:26:52] "GET / HTTP/1.1" 200 -
+2025-02-24 18:26:56,275 INFO: 127.0.0.1 - - [24/Feb/2025 18:26:56] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:27:56,575 INFO: User taught Java example
+2025-02-24 18:27:56,578 INFO: 127.0.0.1 - - [24/Feb/2025 18:27:56] "[32mPOST /home HTTP/1.1[0m" 302 -
+2025-02-24 18:27:56,656 INFO: 127.0.0.1 - - [24/Feb/2025 18:27:56] "GET / HTTP/1.1" 200 -
+2025-02-24 18:27:59,274 INFO: 127.0.0.1 - - [24/Feb/2025 18:27:59] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:28:19,324 INFO: User taught Python example
+2025-02-24 18:28:19,327 INFO: 127.0.0.1 - - [24/Feb/2025 18:28:19] "[32mPOST /home HTTP/1.1[0m" 302 -
+2025-02-24 18:28:19,356 INFO: 127.0.0.1 - - [24/Feb/2025 18:28:19] "GET / HTTP/1.1" 200 -
+2025-02-24 18:28:22,420 INFO: 127.0.0.1 - - [24/Feb/2025 18:28:22] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:28:35,546 INFO: User taught PHP example
+2025-02-24 18:28:35,549 INFO: 127.0.0.1 - - [24/Feb/2025 18:28:35] "[32mPOST /home HTTP/1.1[0m" 302 -
+2025-02-24 18:28:35,578 INFO: 127.0.0.1 - - [24/Feb/2025 18:28:35] "GET / HTTP/1.1" 200 -
+2025-02-24 18:31:28,078 INFO: 127.0.0.1 - - [24/Feb/2025 18:31:28] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:31:28,100 INFO: 127.0.0.1 - - [24/Feb/2025 18:31:28] "GET /home HTTP/1.1" 200 -
+2025-02-24 18:32:56,559 INFO: User taught PHP example
+2025-02-24 18:32:56,563 INFO: 127.0.0.1 - - [24/Feb/2025 18:32:56] "[32mPOST /home HTTP/1.1[0m" 302 -
+2025-02-24 18:32:56,664 INFO: 127.0.0.1 - - [24/Feb/2025 18:32:56] "GET / HTTP/1.1" 200 -
+2025-02-24 18:32:59,156 INFO: 127.0.0.1 - - [24/Feb/2025 18:32:59] "GET /home HTTP/1.1" 200 -
+2025-03-03 13:30:27,507 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 13:30:27,512 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 13:30:31,350 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 13:30:31,350 INFO: [33mPress CTRL+C to quit[0m
+2025-03-03 13:30:31,375 INFO:  * Restarting with stat
+2025-03-03 13:30:44,387 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 13:30:44,392 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 13:30:44,838 WARNING:  * Debugger is active!
+2025-03-03 13:30:44,843 INFO:  * Debugger PIN: 305-134-860
+2025-03-03 13:37:16,623 ERROR: Database connection failed: 2002: Can't connect to local MySQL server through socket '%-.100s' (%s) (Warning: not all arguments converted during string formatting)
+2025-03-03 13:37:16,854 INFO: 127.0.0.1 - - [03/Mar/2025 13:37:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-03 13:37:17,116 INFO: 127.0.0.1 - - [03/Mar/2025 13:37:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-03 13:37:17,163 INFO: 127.0.0.1 - - [03/Mar/2025 13:37:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-03 13:37:17,261 INFO: 127.0.0.1 - - [03/Mar/2025 13:37:17] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=fx6zRFKH4IxpNJAS8h6v HTTP/1.1" 200 -
+2025-03-03 13:37:17,300 INFO: 127.0.0.1 - - [03/Mar/2025 13:37:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-03 13:39:34,924 ERROR: Database connection failed: 2002: Can't connect to local MySQL server through socket '%-.100s' (%s) (Warning: not all arguments converted during string formatting)
+2025-03-03 13:39:34,959 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-03 13:39:34,981 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-03 13:39:34,995 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-03 13:39:35,016 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=fx6zRFKH4IxpNJAS8h6v HTTP/1.1[0m" 304 -
+2025-03-03 13:39:35,037 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-03 13:39:49,548 INFO: package: mysql.connector.plugins
+2025-03-03 13:39:49,548 INFO: plugin_name: mysql_native_password
+2025-03-03 13:39:49,595 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-03 13:39:49,680 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:49] "GET / HTTP/1.1" 200 -
+2025-03-03 13:39:52,226 INFO: 127.0.0.1 - - [03/Mar/2025 13:39:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-03 15:21:21,611 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-03-03 15:21:25,016 INFO:  * Restarting with stat
+2025-03-03 15:26:24,599 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 15:26:24,600 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 15:26:24,622 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 15:26:24,622 INFO: [33mPress CTRL+C to quit[0m
+2025-03-03 15:26:24,624 INFO:  * Restarting with stat
+2025-03-03 15:26:38,700 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 15:26:38,700 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 15:26:38,707 WARNING:  * Debugger is active!
+2025-03-03 15:26:38,710 INFO:  * Debugger PIN: 305-134-860
+2025-03-03 15:27:33,106 INFO: package: mysql.connector.plugins
+2025-03-03 15:27:33,106 INFO: plugin_name: mysql_native_password
+2025-03-03 15:27:33,108 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-03 15:27:33,125 INFO: 127.0.0.1 - - [03/Mar/2025 15:27:33] "GET / HTTP/1.1" 200 -
+2025-03-03 15:27:39,101 INFO: 127.0.0.1 - - [03/Mar/2025 15:27:39] "GET /home HTTP/1.1" 200 -
+2025-03-03 15:27:42,163 INFO: 127.0.0.1 - - [03/Mar/2025 15:27:42] "GET / HTTP/1.1" 200 -
+2025-03-03 15:36:57,626 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-03-03 15:36:59,123 INFO:  * Restarting with stat
+2025-03-03 15:37:15,004 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 15:37:15,005 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 15:37:15,011 WARNING:  * Debugger is active!
+2025-03-03 15:37:15,015 INFO:  * Debugger PIN: 305-134-860
+2025-03-03 15:37:17,341 INFO: package: mysql.connector.plugins
+2025-03-03 15:37:17,342 INFO: plugin_name: mysql_native_password
+2025-03-03 15:37:17,343 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-03 15:37:17,354 INFO: 127.0.0.1 - - [03/Mar/2025 15:37:17] "GET / HTTP/1.1" 200 -
+2025-03-03 15:38:23,291 ERROR: Error in index: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+2025-03-03 15:38:23,329 INFO: 127.0.0.1 - - [03/Mar/2025 15:38:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-03-03 15:41:03,039 ERROR: Error in index: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+2025-03-03 15:41:03,055 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:03] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-03-03 15:41:11,980 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:11] "GET /home HTTP/1.1" 200 -
+2025-03-03 15:41:14,426 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:14] "GET / HTTP/1.1" 200 -
+2025-03-03 15:41:32,874 INFO: Uploaded file: 93f0bb6be37645249988e2b1aac4bb12_Accounts_index_-_Copy.php
+2025-03-03 15:41:32,875 INFO: Uploaded file: 5587b951e0f24d7091791cc8e580980a_Accounts_index.php
+2025-03-03 15:41:32,903 INFO: Uploaded file: 6a72afd2185e43ea9090f39fb8ab0eb9_Accounts_navbar.php
+2025-03-03 15:41:33,490 ERROR: Error in index: name 'execute_code_sandbox' is not defined
+2025-03-03 15:41:33,493 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-03-03 15:41:36,078 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:36] "GET /home HTTP/1.1" 200 -
+2025-03-03 15:41:55,089 ERROR: Error in home: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+2025-03-03 15:41:55,102 INFO: 127.0.0.1 - - [03/Mar/2025 15:41:55] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+2025-03-03 15:50:57,805 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-03-03 15:50:59,283 INFO:  * Restarting with stat
+2025-03-03 15:51:13,509 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 15:51:13,509 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 15:51:13,514 WARNING:  * Debugger is active!
+2025-03-03 15:51:13,519 INFO:  * Debugger PIN: 305-134-860
+2025-03-03 15:55:30,793 INFO:  * Detected change in 'C:\\Users\\Kimraro\\Desktop\\Lisa20\\app.py', reloading
+2025-03-03 15:55:32,454 INFO:  * Restarting with stat
+2025-03-03 15:55:47,694 INFO: NLTK resource 'punkt' already downloaded.
+2025-03-03 15:55:47,694 INFO: NLTK resource 'punkt_tab' already downloaded.
+2025-03-03 15:55:47,699 WARNING:  * Debugger is active!
+2025-03-03 15:55:47,707 INFO:  * Debugger PIN: 305-134-860
+2025-03-03 15:55:50,041 INFO: package: mysql.connector.plugins
+2025-03-03 15:55:50,041 INFO: plugin_name: mysql_native_password
+2025-03-03 15:55:50,041 INFO: package: mysql.connector.plugins
+2025-03-03 15:55:50,041 INFO: plugin_name: mysql_native_password
+2025-03-03 15:55:50,041 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-03 15:55:50,041 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-03 15:55:50,058 INFO: 127.0.0.1 - - [03/Mar/2025 15:55:50] "GET / HTTP/1.1" 200 -
+2025-03-03 15:55:50,060 INFO: 127.0.0.1 - - [03/Mar/2025 15:55:50] "GET / HTTP/1.1" 200 -
+2025-03-03 15:56:30,953 INFO: 127.0.0.1 - - [03/Mar/2025 15:56:30] "GET /home HTTP/1.1" 200 -
+2025-03-03 16:04:48,775 INFO: 127.0.0.1 - - [03/Mar/2025 16:04:48] "GET / HTTP/1.1" 200 -
+2025-03-03 16:25:22,900 INFO: 127.0.0.1 - - [03/Mar/2025 16:25:22] "GET / HTTP/1.1" 200 -
+2025-03-03 16:25:24,944 INFO: 127.0.0.1 - - [03/Mar/2025 16:25:24] "GET /home HTTP/1.1" 200 -
+2025-03-03 16:25:38,703 INFO: Uploaded file: 75108f734660495c93be807d82e46869_Dental_index_-_Copy.php
+2025-03-03 16:25:38,703 INFO: Uploaded file: fddfaf10d7b44ea19d3036c03928af2e_Dental_index.php
+2025-03-03 16:25:38,703 ERROR: Error in home: [WinError 3] The system cannot find the path specified: 'uploads\\Dental/index - Copy.php'
+2025-03-03 16:25:38,708 INFO: 127.0.0.1 - - [03/Mar/2025 16:25:38] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+2025-03-03 16:41:59,173 INFO: 127.0.0.1 - - [03/Mar/2025 16:41:59] "GET /home HTTP/1.1" 200 -
