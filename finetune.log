@@ -1,0 +1,9 @@
+2025-02-24 18:15:47,689 INFO: package: mysql.connector.plugins
+2025-02-24 18:15:47,690 INFO: plugin_name: mysql_native_password
+2025-02-24 18:15:47,690 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-02-24 18:15:47,693 INFO: Retrieved 19 examples from learning_data
+2025-02-24 18:15:47,693 INFO: Prepared 19 input-output pairs
+2025-02-24 18:15:47,713 INFO: Dataset size: 19
+2025-02-24 18:15:51,124 INFO: Starting fine-tuning
+2025-02-24 18:20:09,092 INFO: Fine-tuning completed
+2025-02-24 18:20:38,631 INFO: Model and tokenizer saved to ./t5_finetuned
